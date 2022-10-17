@@ -3,14 +3,26 @@
 ## このOrganizationの役割について
 このOrganizationは「かどで日記」関連技術を管理するためのGitHub Organizationです。
 
-<!--
 
 # リンク集
+
+かどで日記  
+[kadode.usuyuki.net](https://kadode.usuyuki.net)
+
+開発者向け wiki  
+[wiki.kado.day](https://wiki.kado.day)
+
+かどでプロジェクト公式note  
+[note.com/kadoday](https://note.com/kadoday)
+
+
+<!--
+
 
 ## kadode_portal管轄
 
 全体紹介ページ  
-[portal.kado.day](https://kado.day)
+[project.kado.day](https://project.kado.day)
 
 ## kadode_nikki3管轄
 
