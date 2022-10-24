@@ -4,6 +4,13 @@
 このOrganizationは「かどで日記」関連技術を管理するためのGitHub Organizationです。
 
 
+# 全体像
+かどでプロジェクトは現在「かどで日記」単体で動いているサービスをより安定・継続的に運用していくことを目指して進められています。
+
+※構想予定図
+![かどでプロジェクト全体像](https://user-images.githubusercontent.com/63891531/197450945-54b2f1e9-bde5-4be0-97c6-ef8d9e95bcd1.png)
+
+
 # リンク集
 
 かどで日記  
@@ -22,7 +29,7 @@
 ## kadode_portal管轄
 
 全体紹介ページ  
-[project.kado.day](https://project.kado.day)
+[portal.kado.day](https://portal.kado.day)
 
 ## kadode_nikki3管轄
 
@@ -38,8 +45,6 @@
 NLP 関連の API  
 [nlp.kado.day](https://nlp.kado.day)
 
-
-## kadode_admin管轄
 かどで日記管理用  
 [admin.kado.day](https://admin.kado.day)
 
@@ -47,5 +52,11 @@ NLP 関連の API
 
 かどで日記稼働状況を電子ペーパーで表示するための諸々  
 [paper.kado.day](https://paper.kado.day)
+
+
+## kadode_dog管轄
+
+かどで日記死活管理API
+[dog.kado.day](https://dog.kado.day)
 
 -->
