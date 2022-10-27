@@ -23,6 +23,8 @@
 かどでプロジェクト公式note  
 [note.com/kadoday](https://note.com/kadoday)
 
+かどでポータル
+[portal.kado.day](https://portal.kado.day)
 
 <!--
 
