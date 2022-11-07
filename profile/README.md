@@ -1,15 +1,16 @@
 # KadodeProjectへようこそ！
 
 ## このOrganizationの役割について
-このOrganizationは「かどで日記」関連技術を管理するためのGitHub Organizationです。
+このOrganizationは[Usuyuki](https://github.com/Usuyuki)が趣味でやっている「かどで日記」関連技術を管理するためのGitHub Organizationです。
 
 
 # 全体像
 かどでプロジェクトは現在「かどで日記」単体で動いているサービスをより安定・継続的に運用していくことを目指して進められています。
 
-※構想予定図
-[かどでプロジェクト全体像](https://sharing.clickup.com/3794476/wb/h/3kthc-263/5a3709f5a21df20)
-![かどでプロジェクト全体像](https://user-images.githubusercontent.com/63891531/197452301-4cbc2788-b885-411d-ba1a-fde2c9d0ce24.png)
+※構想予定図  
+[かどでプロジェクト全体像](https://sharing.clickup.com/3794476/wb/h/3kthc-263/5a3709f5a21df20)  
+<img width="778" alt="image" src="https://user-images.githubusercontent.com/63891531/200223143-1fa8d769-528b-4105-96a0-ab2b6b074a84.png">
+
 
 
 # リンク集
